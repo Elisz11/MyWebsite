@@ -10,9 +10,71 @@ body {
     flex-direction: column;
 }
 
+/* Projects */
+.projects {
+    color: white;
+    margin: 20px;
+    display: block;
+    margin: auto;
+    width: 50%;
+}
+.projects p {
+    padding-left: 15px;
+    padding-right: 15px;
+}
+.projects h2 {
+    border: 2px solid white;
+    padding: 15px;
+    border-radius: 10px;
+}
+
+/* About */
+.about {
+    color: white;
+    margin: 20px;
+    display: block;
+    margin: auto;
+    width: 50%;
+}
+.about p {
+    padding-left: 15px;
+    padding-right: 15px;
+}
+.about h2 {
+    border: 2px solid white;
+    padding: 15px;
+    border-radius: 10px;
+}
+
+/* Friend */
+.friends {
+    color: white;
+    margin: 20px;
+    display: block;
+    margin: auto;
+    width: 50%;
+}
+.friends h2 {
+    border: 2px solid white;
+    padding: 15px;
+    border-radius: 10px;
+}
+.friends p {
+    text-align: center;
+}
+.link {
+    color: green;
+    text-decoration: none;  
+}
+.link:hover {
+    text-decoration: underline;  
+}
+
+
 /* Footer */
 footer {
     width: 100%;
+    border-top: 2px solid white;
 }
 footer p {
     text-align: center;
