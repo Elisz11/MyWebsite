@@ -8,11 +8,12 @@ body {
     justify-content: center;
     align-items: center;
     flex-direction: column;
+    color: white;
 }
 
 /* Projects */
 .projects {
-    color: white;
+
     margin: 20px;
     display: block;
     margin: auto;
@@ -30,7 +31,6 @@ body {
 
 /* About */
 .about {
-    color: white;
     margin: 20px;
     display: block;
     margin: auto;
@@ -48,7 +48,6 @@ body {
 
 /* Friend */
 .friends {
-    color: white;
     margin: 20px;
     display: block;
     margin: auto;
@@ -78,5 +77,4 @@ footer {
 }
 footer p {
     text-align: center;
-    color: white;
 }
