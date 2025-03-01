@@ -12,27 +12,23 @@ body {
 }
 
 .categories {
-    margin: 20px;
-    display: block;
-    margin: auto;
-    width: 40%;
-    text-align: center;
+    width: 50%;
+    padding: 20px;
 }
-.categories p {
+.categories div {
+    border: 2px solid white;
+    border-radius: 5px;
     padding-left: 15px;
     padding-right: 15px;
 }
-.categories h2 {
-    border: 2px solid white;
-    padding: 15px;
-    border-radius: 10px;
+.categories div li {
+    padding: 5px;
 }
 .link {
     color: white;
     text-decoration: none;
 }
 .link:hover {
-    color: green;
     text-decoration: underline;
 }
 /* Footer */
