@@ -2,43 +2,58 @@
 @import url("https://fonts.googleapis.com/css2?family=Nabla:EDPT,EHLT@30..200,24&display=swap");
 
 body {
-    font-family: "Inter";
+    font-family: "Inter", sans-serif;
     background-color: black;
+    color: white;
     display: flex;
     justify-content: center;
     align-items: center;
     flex-direction: column;
-    color: white;
+    min-height: 100vh;
+    margin: 0;
 }
 
 .categories {
-    width: 50%;
-    padding: 20px;
+    width: 90%;
     max-width: 600px;
-    margin: 0 auto;
+    padding: 20px;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    gap: 15px;
 }
+
 .categories div {
     width: 100%;
-    border: 2px solid white;
+    max-width: 500px;
     min-width: 300px;
+    border: 2px solid white;
     border-radius: 5px;
-    padding: 15px;
-    margin: 10px auto;
+    padding: 20px;
+    text-align: center;
 }
+
+.categories div ul {
+    padding: 0;
+    margin: 0;
+}
+
 .categories div li {
     padding: 5px;
 }
+
 .link {
     color: white;
     text-decoration: none;
 }
+
 .link:hover {
     text-decoration: underline;
 }
+
 /* Footer */
 footer {
     width: 100%;
-}
-footer p {
+    padding: 10px;
     text-align: center;
 }
