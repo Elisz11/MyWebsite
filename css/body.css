@@ -14,11 +14,11 @@ body {
 .categories {
     width: 50%;
     padding: 20px;
+    max-width: 600px;
 }
 .categories div {
     border: 2px solid white;
     min-width: 300px;
-    max-width: 350px;
     border-radius: 5px;
     padding-left: 15px;
     padding-right: 15px;
