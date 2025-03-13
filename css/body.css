@@ -17,6 +17,7 @@ body {
 }
 .categories div {
     border: 2px solid white;
+    min-width: 400px;
     border-radius: 5px;
     padding-left: 15px;
     padding-right: 15px;
