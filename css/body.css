@@ -17,11 +17,12 @@ body {
     max-width: 600px;
 }
 .categories div {
+    width: 100%;
     border: 2px solid white;
     min-width: 300px;
     border-radius: 5px;
-    padding-left: 15px;
-    padding-right: 15px;
+    padding: 15px;
+    margine: 10px auto;
 }
 .categories div li {
     padding: 5px;
