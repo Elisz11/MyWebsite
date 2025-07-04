@@ -1,0 +1,35 @@
+.grid {
+      display: flex;
+      flex-wrap: wrap;
+      justify-content: center;
+      gap: 30px;
+    }
+
+    .lang-card {
+      border-radius: 16px;
+      width: 120px;
+      height: 120px;
+      padding: 10px;
+      box-shadow: 0 4px 10px rgba(0,0,0,0.3);
+      display: flex;
+      flex-direction: column;
+      align-items: center;
+      justify-content: space-between;
+      transition: transform 0.1s ease;
+    }
+
+    .lang-card:hover {
+      transform: scale(1.08);
+      outline: 2px solid white;
+    }
+
+    .lang-card img {
+      width: 64px;
+      height: 64px;
+      margin-top: 10px;
+    }
+
+    .lang-name {
+      margin-top: 10px;
+      font-size: 1rem;
+    }

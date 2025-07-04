@@ -22,6 +22,11 @@ header {
     background-color: black;
     border-radius: 10px;
 }
+
+.header-link .link {
+    margin: 10px;
+}
+
 .header-link .link a:hover {
     background-color: #444;
     border-radius: 10px;
@@ -32,9 +37,4 @@ header {
     padding: 5px;
     margin-right: 10px;
     border-radius: 10px;
-}
-.title h1 {
-    font-size: 500%;
-    color: white;
-    text-align: center;
 }
