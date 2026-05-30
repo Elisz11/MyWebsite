@@ -1,7 +1,8 @@
 [
   {
     "filename": "023ca6be-bf0b-4b28-865b-fbd2105f25fc.jpg",
-    "url": "./photos/023ca6be-bf0b-4b28-865b-fbd2105f25fc.jpg",
+    "url": "./photos/optimized/023ca6be-bf0b-4b28-865b-fbd2105f25fc.webp",
+    "downloadUrl": "./photos/full/023ca6be-bf0b-4b28-865b-fbd2105f25fc.jpg",
     "date": "2023-08-28T14:30:50.000Z",
     "lat": null,
     "lng": null,
@@ -9,7 +10,8 @@
   },
   {
     "filename": "20240717_145456.jpg",
-    "url": "./photos/20240717_145456.jpg",
+    "url": "./photos/optimized/20240717_145456.webp",
+    "downloadUrl": "./photos/full/20240717_145456.jpg",
     "date": "2024-07-17T12:54:56.000Z",
     "lat": null,
     "lng": null,
@@ -17,7 +19,8 @@
   },
   {
     "filename": "20240717_155604.jpg",
-    "url": "./photos/20240717_155604.jpg",
+    "url": "./photos/optimized/20240717_155604.webp",
+    "downloadUrl": "./photos/full/20240717_155604.jpg",
     "date": "2024-07-17T13:56:04.000Z",
     "lat": null,
     "lng": null,
@@ -25,7 +28,8 @@
   },
   {
     "filename": "20240813_101142.jpg",
-    "url": "./photos/20240813_101142.jpg",
+    "url": "./photos/optimized/20240813_101142.webp",
+    "downloadUrl": "./photos/full/20240813_101142.jpg",
     "date": "2024-08-13T08:11:42.000Z",
     "lat": 50.084831299722225,
     "lng": 19.694721499722224,
@@ -33,7 +37,8 @@
   },
   {
     "filename": "7ff85801-5445-4b6f-9dde-6fb72dcbc433.jpg",
-    "url": "./photos/7ff85801-5445-4b6f-9dde-6fb72dcbc433.jpg",
+    "url": "./photos/optimized/7ff85801-5445-4b6f-9dde-6fb72dcbc433.webp",
+    "downloadUrl": "./photos/full/7ff85801-5445-4b6f-9dde-6fb72dcbc433.jpg",
     "date": "2023-12-28T13:46:35.000Z",
     "lat": null,
     "lng": null,
@@ -41,7 +46,8 @@
   },
   {
     "filename": "a282265c-f06d-4f21-9f9c-f81feaf65d82.jpg",
-    "url": "./photos/a282265c-f06d-4f21-9f9c-f81feaf65d82.jpg",
+    "url": "./photos/optimized/a282265c-f06d-4f21-9f9c-f81feaf65d82.webp",
+    "downloadUrl": "./photos/full/a282265c-f06d-4f21-9f9c-f81feaf65d82.jpg",
     "date": "2023-12-28T14:34:23.000Z",
     "lat": null,
     "lng": null,
@@ -49,7 +55,8 @@
   },
   {
     "filename": "afc1d5e5-1b13-4408-a057-6615348ec826.jpg",
-    "url": "./photos/afc1d5e5-1b13-4408-a057-6615348ec826.jpg",
+    "url": "./photos/optimized/afc1d5e5-1b13-4408-a057-6615348ec826.webp",
+    "downloadUrl": "./photos/full/afc1d5e5-1b13-4408-a057-6615348ec826.jpg",
     "date": "2024-07-17T14:28:04.000Z",
     "lat": null,
     "lng": null,
@@ -57,7 +64,8 @@
   },
   {
     "filename": "eee94d1c-9072-42d3-8982-918fc66fe321.jpg",
-    "url": "./photos/eee94d1c-9072-42d3-8982-918fc66fe321.jpg",
+    "url": "./photos/optimized/eee94d1c-9072-42d3-8982-918fc66fe321.webp",
+    "downloadUrl": "./photos/full/eee94d1c-9072-42d3-8982-918fc66fe321.jpg",
     "date": "2024-07-17T12:55:12.000Z",
     "lat": null,
     "lng": null,
@@ -65,7 +73,8 @@
   },
   {
     "filename": "PXL_20241224_155930249.jpg",
-    "url": "./photos/PXL_20241224_155930249.jpg",
+    "url": "./photos/optimized/PXL_20241224_155930249.webp",
+    "downloadUrl": "./photos/full/PXL_20241224_155930249.jpg",
     "date": "2024-12-24T15:59:30.000Z",
     "lat": 43.42259444444444,
     "lng": 6.767188888888889,
@@ -73,7 +82,8 @@
   },
   {
     "filename": "PXL_20241226_140814811.jpg",
-    "url": "./photos/PXL_20241226_140814811.jpg",
+    "url": "./photos/optimized/PXL_20241226_140814811.webp",
+    "downloadUrl": "./photos/full/PXL_20241226_140814811.jpg",
     "date": "2024-12-26T14:08:14.000Z",
     "lat": 43.413805555555555,
     "lng": 6.852469444444444,
@@ -81,7 +91,8 @@
   },
   {
     "filename": "PXL_20241227_105356655.jpg",
-    "url": "./photos/PXL_20241227_105356655.jpg",
+    "url": "./photos/optimized/PXL_20241227_105356655.webp",
+    "downloadUrl": "./photos/full/PXL_20241227_105356655.jpg",
     "date": "2024-12-27T10:53:56.000Z",
     "lat": 43.454322222222224,
     "lng": 6.906388888888889,
@@ -89,7 +100,8 @@
   },
   {
     "filename": "PXL_20241227_105643948.jpg",
-    "url": "./photos/PXL_20241227_105643948.jpg",
+    "url": "./photos/optimized/PXL_20241227_105643948.webp",
+    "downloadUrl": "./photos/full/PXL_20241227_105643948.jpg",
     "date": "2024-12-27T10:56:43.000Z",
     "lat": 43.454816666666666,
     "lng": 6.905836111111111,
@@ -97,7 +109,8 @@
   },
   {
     "filename": "PXL_20241227_115725784.jpg",
-    "url": "./photos/PXL_20241227_115725784.jpg",
+    "url": "./photos/optimized/PXL_20241227_115725784.webp",
+    "downloadUrl": "./photos/full/PXL_20241227_115725784.jpg",
     "date": "2024-12-27T11:57:25.000Z",
     "lat": 43.45659166666667,
     "lng": 6.903961111111111,
@@ -105,7 +118,8 @@
   },
   {
     "filename": "PXL_20241230_094007417.jpg",
-    "url": "./photos/PXL_20241230_094007417.jpg",
+    "url": "./photos/optimized/PXL_20241230_094007417.webp",
+    "downloadUrl": "./photos/full/PXL_20241230_094007417.jpg",
     "date": "2024-12-30T09:40:07.000Z",
     "lat": 43.44620555555555,
     "lng": 6.905975000000001,
@@ -113,7 +127,8 @@
   },
   {
     "filename": "PXL_20241230_094009983.jpg",
-    "url": "./photos/PXL_20241230_094009983.jpg",
+    "url": "./photos/optimized/PXL_20241230_094009983.webp",
+    "downloadUrl": "./photos/full/PXL_20241230_094009983.jpg",
     "date": "2024-12-30T09:40:09.000Z",
     "lat": 43.44620555555555,
     "lng": 6.905975000000001,
@@ -121,7 +136,8 @@
   },
   {
     "filename": "PXL_20250404_071037834.jpg",
-    "url": "./photos/PXL_20250404_071037834.jpg",
+    "url": "./photos/optimized/PXL_20250404_071037834.webp",
+    "downloadUrl": "./photos/full/PXL_20250404_071037834.jpg",
     "date": "2025-04-04T07:10:37.000Z",
     "lat": 45.52095277777778,
     "lng": 9.318202777777778,
@@ -129,7 +145,8 @@
   },
   {
     "filename": "PXL_20250417_041258467.jpg",
-    "url": "./photos/PXL_20250417_041258467.jpg",
+    "url": "./photos/optimized/PXL_20250417_041258467.webp",
+    "downloadUrl": "./photos/full/PXL_20250417_041258467.jpg",
     "date": "2025-04-17T04:12:58.000Z",
     "lat": null,
     "lng": null,
@@ -137,7 +154,8 @@
   },
   {
     "filename": "PXL_20250417_041636280.jpg",
-    "url": "./photos/PXL_20250417_041636280.jpg",
+    "url": "./photos/optimized/PXL_20250417_041636280.webp",
+    "downloadUrl": "./photos/full/PXL_20250417_041636280.jpg",
     "date": "2025-04-17T04:16:36.000Z",
     "lat": 46.616511111111116,
     "lng": 14.293558333333333,
@@ -145,7 +163,8 @@
   },
   {
     "filename": "PXL_20250421_093124774.jpg",
-    "url": "./photos/PXL_20250421_093124774.jpg",
+    "url": "./photos/optimized/PXL_20250421_093124774.webp",
+    "downloadUrl": "./photos/full/PXL_20250421_093124774.jpg",
     "date": "2025-04-21T09:31:24.000Z",
     "lat": 50.22714722222222,
     "lng": 19.316308333333335,
@@ -153,7 +172,8 @@
   },
   {
     "filename": "PXL_20250421_094339088.jpg",
-    "url": "./photos/PXL_20250421_094339088.jpg",
+    "url": "./photos/optimized/PXL_20250421_094339088.webp",
+    "downloadUrl": "./photos/full/PXL_20250421_094339088.jpg",
     "date": "2025-04-21T09:43:39.000Z",
     "lat": 50.22938611111111,
     "lng": 19.312475,
@@ -161,7 +181,8 @@
   },
   {
     "filename": "PXL_20250421_094349287.jpg",
-    "url": "./photos/PXL_20250421_094349287.jpg",
+    "url": "./photos/optimized/PXL_20250421_094349287.webp",
+    "downloadUrl": "./photos/full/PXL_20250421_094349287.jpg",
     "date": "2025-04-21T09:43:49.000Z",
     "lat": 50.22938611111111,
     "lng": 19.312475,
@@ -169,7 +190,8 @@
   },
   {
     "filename": "PXL_20250423_091156678.MP.jpg",
-    "url": "./photos/PXL_20250423_091156678.MP.jpg",
+    "url": "./photos/optimized/PXL_20250423_091156678.MP.webp",
+    "downloadUrl": "./photos/full/PXL_20250423_091156678.MP.jpg",
     "date": "2025-04-23T09:11:56.000Z",
     "lat": 49.50799444444444,
     "lng": 20.092441666666666,
@@ -177,7 +199,8 @@
   },
   {
     "filename": "PXL_20250423_092904543.jpg",
-    "url": "./photos/PXL_20250423_092904543.jpg",
+    "url": "./photos/optimized/PXL_20250423_092904543.webp",
+    "downloadUrl": "./photos/full/PXL_20250423_092904543.jpg",
     "date": "2025-04-23T09:29:04.000Z",
     "lat": 49.50689444444444,
     "lng": 20.090605555555555,
@@ -185,7 +208,8 @@
   },
   {
     "filename": "PXL_20250423_101045469.jpg",
-    "url": "./photos/PXL_20250423_101045469.jpg",
+    "url": "./photos/optimized/PXL_20250423_101045469.webp",
+    "downloadUrl": "./photos/full/PXL_20250423_101045469.jpg",
     "date": "2025-04-23T10:10:45.000Z",
     "lat": 49.50656388888889,
     "lng": 20.09122222222222,
@@ -193,7 +217,8 @@
   },
   {
     "filename": "PXL_20250423_101145964.jpg",
-    "url": "./photos/PXL_20250423_101145964.jpg",
+    "url": "./photos/optimized/PXL_20250423_101145964.webp",
+    "downloadUrl": "./photos/full/PXL_20250423_101145964.jpg",
     "date": "2025-04-23T10:11:45.000Z",
     "lat": 49.5068,
     "lng": 20.090069444444442,
@@ -201,7 +226,8 @@
   },
   {
     "filename": "PXL_20250423_115948806.MP.jpg",
-    "url": "./photos/PXL_20250423_115948806.MP.jpg",
+    "url": "./photos/optimized/PXL_20250423_115948806.MP.webp",
+    "downloadUrl": "./photos/full/PXL_20250423_115948806.MP.jpg",
     "date": "2025-04-23T11:59:48.000Z",
     "lat": 49.42268055555555,
     "lng": 20.320083333333333,
@@ -209,7 +235,8 @@
   },
   {
     "filename": "PXL_20250423_120636358.jpg",
-    "url": "./photos/PXL_20250423_120636358.jpg",
+    "url": "./photos/optimized/PXL_20250423_120636358.webp",
+    "downloadUrl": "./photos/full/PXL_20250423_120636358.jpg",
     "date": "2025-04-23T12:06:36.000Z",
     "lat": 49.42254444444444,
     "lng": 20.319644444444446,
@@ -217,7 +244,8 @@
   },
   {
     "filename": "PXL_20250423_125209874.jpg",
-    "url": "./photos/PXL_20250423_125209874.jpg",
+    "url": "./photos/optimized/PXL_20250423_125209874.webp",
+    "downloadUrl": "./photos/full/PXL_20250423_125209874.jpg",
     "date": "2025-04-23T12:52:09.000Z",
     "lat": 49.40995833333333,
     "lng": 20.329505555555556,
@@ -225,7 +253,8 @@
   },
   {
     "filename": "PXL_20250423_125212699.jpg",
-    "url": "./photos/PXL_20250423_125212699.jpg",
+    "url": "./photos/optimized/PXL_20250423_125212699.webp",
+    "downloadUrl": "./photos/full/PXL_20250423_125212699.jpg",
     "date": "2025-04-23T12:52:12.000Z",
     "lat": 49.419713888888886,
     "lng": 20.322752777777776,
@@ -233,7 +262,8 @@
   },
   {
     "filename": "PXL_20250423_125248442.jpg",
-    "url": "./photos/PXL_20250423_125248442.jpg",
+    "url": "./photos/optimized/PXL_20250423_125248442.webp",
+    "downloadUrl": "./photos/full/PXL_20250423_125248442.jpg",
     "date": "2025-04-23T12:52:48.000Z",
     "lat": 49.419713888888886,
     "lng": 20.322752777777776,
@@ -241,7 +271,8 @@
   },
   {
     "filename": "PXL_20250425_131205492.jpg",
-    "url": "./photos/PXL_20250425_131205492.jpg",
+    "url": "./photos/optimized/PXL_20250425_131205492.webp",
+    "downloadUrl": "./photos/full/PXL_20250425_131205492.jpg",
     "date": "2025-04-25T13:12:05.000Z",
     "lat": 49.88868055555555,
     "lng": 20.087666666666667,
@@ -249,7 +280,8 @@
   },
   {
     "filename": "PXL_20250425_132522718.jpg",
-    "url": "./photos/PXL_20250425_132522718.jpg",
+    "url": "./photos/optimized/PXL_20250425_132522718.webp",
+    "downloadUrl": "./photos/full/PXL_20250425_132522718.jpg",
     "date": "2025-04-25T13:25:22.000Z",
     "lat": 49.877027777777776,
     "lng": 20.08858611111111,
@@ -257,7 +289,8 @@
   },
   {
     "filename": "PXL_20250425_132529479.jpg",
-    "url": "./photos/PXL_20250425_132529479.jpg",
+    "url": "./photos/optimized/PXL_20250425_132529479.webp",
+    "downloadUrl": "./photos/full/PXL_20250425_132529479.jpg",
     "date": "2025-04-25T13:25:29.000Z",
     "lat": 49.877027777777776,
     "lng": 20.08858611111111,
@@ -265,7 +298,8 @@
   },
   {
     "filename": "PXL_20250505_131031424.jpg",
-    "url": "./photos/PXL_20250505_131031424.jpg",
+    "url": "./photos/optimized/PXL_20250505_131031424.webp",
+    "downloadUrl": "./photos/full/PXL_20250505_131031424.jpg",
     "date": "2025-05-05T13:10:31.000Z",
     "lat": 42.39795,
     "lng": 11.206338888888888,
@@ -273,7 +307,8 @@
   },
   {
     "filename": "PXL_20250611_084212638.jpg",
-    "url": "./photos/PXL_20250611_084212638.jpg",
+    "url": "./photos/optimized/PXL_20250611_084212638.webp",
+    "downloadUrl": "./photos/full/PXL_20250611_084212638.jpg",
     "date": "2025-06-11T08:42:12.000Z",
     "lat": null,
     "lng": null,
@@ -281,7 +316,8 @@
   },
   {
     "filename": "PXL_20250715_090621827.MP.jpg",
-    "url": "./photos/PXL_20250715_090621827.MP.jpg",
+    "url": "./photos/optimized/PXL_20250715_090621827.MP.webp",
+    "downloadUrl": "./photos/full/PXL_20250715_090621827.MP.jpg",
     "date": "2025-07-15T09:06:21.000Z",
     "lat": 52.217733333333335,
     "lng": 20.96009722222222,
@@ -289,7 +325,8 @@
   },
   {
     "filename": "PXL_20250717_134934389.MP.jpg",
-    "url": "./photos/PXL_20250717_134934389.MP.jpg",
+    "url": "./photos/optimized/PXL_20250717_134934389.MP.webp",
+    "downloadUrl": "./photos/full/PXL_20250717_134934389.MP.jpg",
     "date": "2025-07-17T13:49:34.000Z",
     "lat": 54.82905277777778,
     "lng": 18.33281388888889,
@@ -297,7 +334,8 @@
   },
   {
     "filename": "PXL_20250720_181815885.jpg",
-    "url": "./photos/PXL_20250720_181815885.jpg",
+    "url": "./photos/optimized/PXL_20250720_181815885.webp",
+    "downloadUrl": "./photos/full/PXL_20250720_181815885.jpg",
     "date": "2025-07-20T18:18:15.000Z",
     "lat": 54.83454722222223,
     "lng": 18.319058333333334,
@@ -305,7 +343,8 @@
   },
   {
     "filename": "PXL_20250724_064040849.jpg",
-    "url": "./photos/PXL_20250724_064040849.jpg",
+    "url": "./photos/optimized/PXL_20250724_064040849.webp",
+    "downloadUrl": "./photos/full/PXL_20250724_064040849.jpg",
     "date": "2025-07-24T06:40:40.000Z",
     "lat": 56.163919444444446,
     "lng": 15.576541666666666,
@@ -313,7 +352,8 @@
   },
   {
     "filename": "PXL_20250724_064118224.MP.jpg",
-    "url": "./photos/PXL_20250724_064118224.MP.jpg",
+    "url": "./photos/optimized/PXL_20250724_064118224.MP.webp",
+    "downloadUrl": "./photos/full/PXL_20250724_064118224.MP.jpg",
     "date": "2025-07-24T06:41:18.000Z",
     "lat": 56.163919444444446,
     "lng": 15.576541666666666,
@@ -321,7 +361,8 @@
   },
   {
     "filename": "PXL_20250724_092408523.jpg",
-    "url": "./photos/PXL_20250724_092408523.jpg",
+    "url": "./photos/optimized/PXL_20250724_092408523.webp",
+    "downloadUrl": "./photos/full/PXL_20250724_092408523.jpg",
     "date": "2025-07-24T09:24:08.000Z",
     "lat": 56.15845833333333,
     "lng": 15.587319444444445,
@@ -329,7 +370,8 @@
   },
   {
     "filename": "PXL_20250724_093106957.jpg",
-    "url": "./photos/PXL_20250724_093106957.jpg",
+    "url": "./photos/optimized/PXL_20250724_093106957.webp",
+    "downloadUrl": "./photos/full/PXL_20250724_093106957.jpg",
     "date": "2025-07-24T09:31:06.000Z",
     "lat": 56.1577,
     "lng": 15.591327777777778,
@@ -337,7 +379,8 @@
   },
   {
     "filename": "PXL_20250724_135346216.jpg",
-    "url": "./photos/PXL_20250724_135346216.jpg",
+    "url": "./photos/optimized/PXL_20250724_135346216.webp",
+    "downloadUrl": "./photos/full/PXL_20250724_135346216.jpg",
     "date": "2025-07-24T13:53:46.000Z",
     "lat": 56.11088888888889,
     "lng": 15.563383333333334,
@@ -345,7 +388,8 @@
   },
   {
     "filename": "PXL_20250724_135939513.jpg",
-    "url": "./photos/PXL_20250724_135939513.jpg",
+    "url": "./photos/optimized/PXL_20250724_135939513.webp",
+    "downloadUrl": "./photos/full/PXL_20250724_135939513.jpg",
     "date": "2025-07-24T13:59:39.000Z",
     "lat": 56.110525,
     "lng": 15.565194444444446,
@@ -353,7 +397,8 @@
   },
   {
     "filename": "PXL_20250729_145707377.jpg",
-    "url": "./photos/PXL_20250729_145707377.jpg",
+    "url": "./photos/optimized/PXL_20250729_145707377.webp",
+    "downloadUrl": "./photos/full/PXL_20250729_145707377.jpg",
     "date": "2025-07-29T14:57:07.000Z",
     "lat": 51.76320555555556,
     "lng": 19.45758888888889,
@@ -361,7 +406,8 @@
   },
   {
     "filename": "PXL_20250729_161826006.jpg",
-    "url": "./photos/PXL_20250729_161826006.jpg",
+    "url": "./photos/optimized/PXL_20250729_161826006.webp",
+    "downloadUrl": "./photos/full/PXL_20250729_161826006.jpg",
     "date": "2025-07-29T16:18:26.000Z",
     "lat": 51.77698611111111,
     "lng": 19.454891666666665,
@@ -369,7 +415,8 @@
   },
   {
     "filename": "PXL_20250730_065657602.jpg",
-    "url": "./photos/PXL_20250730_065657602.jpg",
+    "url": "./photos/optimized/PXL_20250730_065657602.webp",
+    "downloadUrl": "./photos/full/PXL_20250730_065657602.jpg",
     "date": "2025-07-30T06:56:57.000Z",
     "lat": 51.762972222222224,
     "lng": 19.45926111111111,
@@ -377,7 +424,8 @@
   },
   {
     "filename": "PXL_20250812_121144949.jpg",
-    "url": "./photos/PXL_20250812_121144949.jpg",
+    "url": "./photos/optimized/PXL_20250812_121144949.webp",
+    "downloadUrl": "./photos/full/PXL_20250812_121144949.jpg",
     "date": "2025-08-12T12:11:44.000Z",
     "lat": 50.061813888888885,
     "lng": 19.937752777777778,
@@ -385,7 +433,8 @@
   },
   {
     "filename": "PXL_20250820_154842798.jpg",
-    "url": "./photos/PXL_20250820_154842798.jpg",
+    "url": "./photos/optimized/PXL_20250820_154842798.webp",
+    "downloadUrl": "./photos/full/PXL_20250820_154842798.jpg",
     "date": "2025-08-20T15:48:42.000Z",
     "lat": 50.06189444444444,
     "lng": 19.938772222222223,
@@ -393,7 +442,8 @@
   },
   {
     "filename": "PXL_20250820_161020598.jpg",
-    "url": "./photos/PXL_20250820_161020598.jpg",
+    "url": "./photos/optimized/PXL_20250820_161020598.webp",
+    "downloadUrl": "./photos/full/PXL_20250820_161020598.jpg",
     "date": "2025-08-20T16:10:20.000Z",
     "lat": 50.06451666666666,
     "lng": 19.94113888888889,
@@ -401,7 +451,8 @@
   },
   {
     "filename": "PXL_20250825_152135025.MP.jpg",
-    "url": "./photos/PXL_20250825_152135025.MP.jpg",
+    "url": "./photos/optimized/PXL_20250825_152135025.MP.webp",
+    "downloadUrl": "./photos/full/PXL_20250825_152135025.MP.jpg",
     "date": "2025-08-25T15:21:35.000Z",
     "lat": 50.08337222222222,
     "lng": 19.807433333333336,
@@ -409,7 +460,8 @@
   },
   {
     "filename": "PXL_20250827_172319007.MP.jpg",
-    "url": "./photos/PXL_20250827_172319007.MP.jpg",
+    "url": "./photos/optimized/PXL_20250827_172319007.MP.webp",
+    "downloadUrl": "./photos/full/PXL_20250827_172319007.MP.jpg",
     "date": "2025-08-27T17:23:19.000Z",
     "lat": 50.10165833333333,
     "lng": 19.579433333333334,
@@ -417,7 +469,8 @@
   },
   {
     "filename": "PXL_20250831_143919684.jpg",
-    "url": "./photos/PXL_20250831_143919684.jpg",
+    "url": "./photos/optimized/PXL_20250831_143919684.webp",
+    "downloadUrl": "./photos/full/PXL_20250831_143919684.jpg",
     "date": "2025-08-31T14:39:19.000Z",
     "lat": 47.80570833333333,
     "lng": 13.041183333333333,
@@ -425,7 +478,8 @@
   },
   {
     "filename": "PXL_20250831_174501680.MP.jpg",
-    "url": "./photos/PXL_20250831_174501680.MP.jpg",
+    "url": "./photos/optimized/PXL_20250831_174501680.MP.webp",
+    "downloadUrl": "./photos/full/PXL_20250831_174501680.MP.jpg",
     "date": "2025-08-31T17:45:01.000Z",
     "lat": 47.810449999999996,
     "lng": 13.042822222222222,
@@ -433,7 +487,8 @@
   },
   {
     "filename": "PXL_20251225_113529525.MP.jpg",
-    "url": "./photos/PXL_20251225_113529525.MP.jpg",
+    "url": "./photos/optimized/PXL_20251225_113529525.MP.webp",
+    "downloadUrl": "./photos/full/PXL_20251225_113529525.MP.jpg",
     "date": "2025-12-25T11:35:29.000Z",
     "lat": 43.908166666666666,
     "lng": 8.08375,
@@ -441,7 +496,8 @@
   },
   {
     "filename": "PXL_20251225_134840490.MP.jpg",
-    "url": "./photos/PXL_20251225_134840490.MP.jpg",
+    "url": "./photos/optimized/PXL_20251225_134840490.MP.webp",
+    "downloadUrl": "./photos/full/PXL_20251225_134840490.MP.jpg",
     "date": "2025-12-25T13:48:40.000Z",
     "lat": 43.900036111111106,
     "lng": 8.076244444444445,
@@ -449,7 +505,8 @@
   },
   {
     "filename": "PXL_20251226_135435300.MP.jpg",
-    "url": "./photos/PXL_20251226_135435300.MP.jpg",
+    "url": "./photos/optimized/PXL_20251226_135435300.MP.webp",
+    "downloadUrl": "./photos/full/PXL_20251226_135435300.MP.jpg",
     "date": "2025-12-26T13:54:35.000Z",
     "lat": 43.88671111111111,
     "lng": 8.04528611111111,
@@ -457,7 +514,8 @@
   },
   {
     "filename": "PXL_20251228_120443262.jpg",
-    "url": "./photos/PXL_20251228_120443262.jpg",
+    "url": "./photos/optimized/PXL_20251228_120443262.webp",
+    "downloadUrl": "./photos/full/PXL_20251228_120443262.jpg",
     "date": "2025-12-28T12:04:43.000Z",
     "lat": 43.73283888888889,
     "lng": 7.401663888888889,
@@ -465,7 +523,8 @@
   },
   {
     "filename": "PXL_20251228_121057820.MP.jpg",
-    "url": "./photos/PXL_20251228_121057820.MP.jpg",
+    "url": "./photos/optimized/PXL_20251228_121057820.MP.webp",
+    "downloadUrl": "./photos/full/PXL_20251228_121057820.MP.jpg",
     "date": "2025-12-28T12:10:57.000Z",
     "lat": 43.73255277777778,
     "lng": 7.401777777777778,
@@ -473,7 +532,8 @@
   },
   {
     "filename": "PXL_20251228_121100584.jpg",
-    "url": "./photos/PXL_20251228_121100584.jpg",
+    "url": "./photos/optimized/PXL_20251228_121100584.webp",
+    "downloadUrl": "./photos/full/PXL_20251228_121100584.jpg",
     "date": "2025-12-28T12:11:00.000Z",
     "lat": 43.73255277777778,
     "lng": 7.401777777777778,
@@ -481,7 +541,8 @@
   },
   {
     "filename": "PXL_20251228_121249989.jpg",
-    "url": "./photos/PXL_20251228_121249989.jpg",
+    "url": "./photos/optimized/PXL_20251228_121249989.webp",
+    "downloadUrl": "./photos/full/PXL_20251228_121249989.jpg",
     "date": "2025-12-28T12:12:49.000Z",
     "lat": 43.73186666666667,
     "lng": 7.401869444444444,
@@ -489,7 +550,8 @@
   },
   {
     "filename": "PXL_20251228_133112729.jpg",
-    "url": "./photos/PXL_20251228_133112729.jpg",
+    "url": "./photos/optimized/PXL_20251228_133112729.webp",
+    "downloadUrl": "./photos/full/PXL_20251228_133112729.jpg",
     "date": "2025-12-28T13:31:12.000Z",
     "lat": 43.74953888888889,
     "lng": 7.418116666666667,
@@ -497,7 +559,8 @@
   },
   {
     "filename": "PXL_20251228_140327928.jpg",
-    "url": "./photos/PXL_20251228_140327928.jpg",
+    "url": "./photos/optimized/PXL_20251228_140327928.webp",
+    "downloadUrl": "./photos/full/PXL_20251228_140327928.jpg",
     "date": "2025-12-28T14:03:27.000Z",
     "lat": 43.734144444444446,
     "lng": 7.418183333333333,
@@ -505,7 +568,8 @@
   },
   {
     "filename": "PXL_20251228_140454236.jpg",
-    "url": "./photos/PXL_20251228_140454236.jpg",
+    "url": "./photos/optimized/PXL_20251228_140454236.webp",
+    "downloadUrl": "./photos/full/PXL_20251228_140454236.jpg",
     "date": "2025-12-28T14:04:54.000Z",
     "lat": 43.734144444444446,
     "lng": 7.418183333333333,
@@ -513,7 +577,8 @@
   },
   {
     "filename": "PXL_20251228_150127512.MP.jpg",
-    "url": "./photos/PXL_20251228_150127512.MP.jpg",
+    "url": "./photos/optimized/PXL_20251228_150127512.MP.webp",
+    "downloadUrl": "./photos/full/PXL_20251228_150127512.MP.jpg",
     "date": "2025-12-28T15:01:27.000Z",
     "lat": 43.7393,
     "lng": 7.429630555555556,
@@ -521,7 +586,8 @@
   },
   {
     "filename": "PXL_20251228_155100017.jpg",
-    "url": "./photos/PXL_20251228_155100017.jpg",
+    "url": "./photos/optimized/PXL_20251228_155100017.webp",
+    "downloadUrl": "./photos/full/PXL_20251228_155100017.jpg",
     "date": "2025-12-28T15:51:00.000Z",
     "lat": 43.73173611111111,
     "lng": 7.4172722222222225,
@@ -529,7 +595,8 @@
   },
   {
     "filename": "PXL_20251228_155825256.MP.jpg",
-    "url": "./photos/PXL_20251228_155825256.MP.jpg",
+    "url": "./photos/optimized/PXL_20251228_155825256.MP.webp",
+    "downloadUrl": "./photos/full/PXL_20251228_155825256.MP.jpg",
     "date": "2025-12-28T15:58:25.000Z",
     "lat": 43.73173611111111,
     "lng": 7.4172722222222225,
@@ -537,7 +604,8 @@
   },
   {
     "filename": "PXL_20251231_101544915.jpg",
-    "url": "./photos/PXL_20251231_101544915.jpg",
+    "url": "./photos/optimized/PXL_20251231_101544915.webp",
+    "downloadUrl": "./photos/full/PXL_20251231_101544915.jpg",
     "date": "2025-12-31T10:15:44.000Z",
     "lat": 43.85069166666667,
     "lng": 7.624122222222223,
@@ -545,7 +613,8 @@
   },
   {
     "filename": "PXL_20251231_105502435.MP.jpg",
-    "url": "./photos/PXL_20251231_105502435.MP.jpg",
+    "url": "./photos/optimized/PXL_20251231_105502435.MP.webp",
+    "downloadUrl": "./photos/full/PXL_20251231_105502435.MP.jpg",
     "date": "2025-12-31T10:55:02.000Z",
     "lat": 43.851219444444446,
     "lng": 7.625297222222223,
@@ -553,7 +622,8 @@
   },
   {
     "filename": "PXL_20260213_073328318.jpg",
-    "url": "./photos/PXL_20260213_073328318.jpg",
+    "url": "./photos/optimized/PXL_20260213_073328318.webp",
+    "downloadUrl": "./photos/full/PXL_20260213_073328318.jpg",
     "date": "2026-02-13T07:33:28.000Z",
     "lat": 45.46570555555556,
     "lng": 9.186275,

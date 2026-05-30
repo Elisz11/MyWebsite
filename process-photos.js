@@ -3,7 +3,7 @@ import path from 'path';
 import exifr from 'exifr';
 import fetch from 'node-fetch';
 
-const PHOTOS_DIR = './public/photos';
+const PHOTOS_DIR = 'public/photos/full';
 const OUTPUT_FILE = 'src/assets/gallery.json';
 
 const delay = (ms) => new Promise(res => setTimeout(res, ms));
@@ -51,9 +51,12 @@ async function process() {
             formattedDate = data.DateTimeOriginal.toISOString();
         }
 
+        const webpFilename = file.replace(/\.jpg$/i, '.webp');
+
         galleryData.push({
             filename: file,
-            url: `./photos/${file}`,
+            url: `./photos/optimized/${webpFilename}`,
+            downloadUrl: `./photos/full/${file}`,
             date: formattedDate,
             lat: data?.latitude || null,
             lng: data?.longitude || null,

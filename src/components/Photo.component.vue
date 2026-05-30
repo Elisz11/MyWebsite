@@ -10,7 +10,7 @@
 <template>
     <div class="fixed bg-[rgba(0,0,0,0.5)] z-50 inset-0 flex items-center justify-center w-full h-full" @click.self="$emit('close')">
         <img
-            :src="photo.url"
+            :src="photo.downloadUrl"
             :alt="photo.name"
             loading="lazy"
 			decoding="async"

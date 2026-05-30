@@ -119,7 +119,7 @@
 						<div class="absolute inset-0 bg-black/40 opacity-0 group-hover:opacity-100 transition-opacity flex flex-col items-center justify-center p-4 text-center">
 							<p class="text-white text-xs">{{ new Date(photo.date).toLocaleDateString() }}</p>
 							<a v-if="photo.place" :href="`https://www.google.com/maps/search/?api=1&query=${photo.lat},${photo.lng}`" target="_blank" class=" text-sm font-bold hover:underline " @click.stop>{{ photo.place }}</a>
-							<a :href="photo.url" download class="text-white p-2 rounded-full bg-white/20 hover:bg-white/40 transition-colors" @click.stop>
+							<a :href="photo.downloadUrl" download class="text-white p-2 rounded-full bg-white/20 hover:bg-white/40 transition-colors" @click.stop>
 							<svg xmlns="http://www.w3.org/2000/svg" class="h-5 w-5" fill="none" viewBox="0 0 24 24" stroke="currentColor">
 								<path stroke-linecap="round" stroke-linejoin="round" stroke-width="2" d="M4 16v1a3 3 0 003 3h10a3 3 0 003-3v-1m-4-4l-4 4m0 0l-4-4m4 4V4" />
 							</svg>
