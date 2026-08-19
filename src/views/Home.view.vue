@@ -42,7 +42,7 @@
                 <div class="w-full max-w-md text-left p-4 border rounded-2xl border-neutral-700 hover:border-neutral-300 text-lg transition-all duration-300 hover:scale-105">
                     <h1 class="text-6xl font-bold">Eli</h1>
                     <span >AKA elisz11</span>
-                    <span class="flex items-center gap-1 mt-2"><img src="/icons/pos.svg" class="w-5 h-5" alt="location"><span>Italy and Poland</span></span>
+                    <span class="flex items-center gap-1 mt-2"><img src="/icons/pos.svg" class="w-5 h-5 brightness-0 dark:invert" alt="location"><span>Italy and Poland</span></span>
                 </div>
             </div>
 
@@ -52,7 +52,6 @@
                         <img 
                             src="https://lastfm-recently-played.vercel.app/api?user=elisz11&count=4" 
                             alt="Last.fm recently played tracks" 
-                            class="rounded-2xl"
                             loading="lazy"
                         />
                     </a>
@@ -63,7 +62,6 @@
                         <img
                             src="https://steam-stat-gc6pi4oh5-azizul-haque-anantos-projects.vercel.app/api?profileName=elisz11"
                             alt="Steam recently played games"
-                            class="rounded"
                             loading="lazy"
                         />
                     </a>
@@ -85,7 +83,14 @@
                 <div class="grid grid-cols-1 sm:grid-cols-2 gap-6 w-full max-w-4xl px-4">
                     <div class="border rounded-2xl p-4 border-neutral-700 hover:border-neutral-300 transition-all duration-300 hover:shadow-lg hover:scale-105" v-for="project in featuredProjects" :key="project.id">
                         <a :href="project.url" target="_blank" class="flex text-left gap-3">
-                            <img :src="project.image" class="h-18 w-18 object-cover rounded-lg" :alt="project.name">
+                            <img
+                                :src="project.image"
+                                class="h-18 w-18 object-cover rounded-lg"
+                                :class="{
+                                    'brightness-0 dark:invert': project.image.toLowerCase().endsWith('.svg')
+                                }"
+                                :alt="project.name"
+                            />
                             <div class="flex flex-col">
                                 <h6 class="text-xl">{{ project.name }}</h6>
                                 <p class="text-sm">{{ project.description }}</p>

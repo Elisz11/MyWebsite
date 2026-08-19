@@ -27,46 +27,10 @@
     "place": null
   },
   {
-    "filename": "20240813_101142.jpg",
-    "url": "./photos/optimized/20240813_101142.webp",
-    "downloadUrl": "./photos/full/20240813_101142.jpg",
-    "date": "2024-08-13T08:11:42.000Z",
-    "lat": 50.084831299722225,
-    "lng": 19.694721499722224,
-    "place": "Brzoskwinia"
-  },
-  {
     "filename": "7ff85801-5445-4b6f-9dde-6fb72dcbc433.jpg",
     "url": "./photos/optimized/7ff85801-5445-4b6f-9dde-6fb72dcbc433.webp",
     "downloadUrl": "./photos/full/7ff85801-5445-4b6f-9dde-6fb72dcbc433.jpg",
     "date": "2023-12-28T13:46:35.000Z",
-    "lat": null,
-    "lng": null,
-    "place": null
-  },
-  {
-    "filename": "a282265c-f06d-4f21-9f9c-f81feaf65d82.jpg",
-    "url": "./photos/optimized/a282265c-f06d-4f21-9f9c-f81feaf65d82.webp",
-    "downloadUrl": "./photos/full/a282265c-f06d-4f21-9f9c-f81feaf65d82.jpg",
-    "date": "2023-12-28T14:34:23.000Z",
-    "lat": null,
-    "lng": null,
-    "place": null
-  },
-  {
-    "filename": "afc1d5e5-1b13-4408-a057-6615348ec826.jpg",
-    "url": "./photos/optimized/afc1d5e5-1b13-4408-a057-6615348ec826.webp",
-    "downloadUrl": "./photos/full/afc1d5e5-1b13-4408-a057-6615348ec826.jpg",
-    "date": "2024-07-17T14:28:04.000Z",
-    "lat": null,
-    "lng": null,
-    "place": null
-  },
-  {
-    "filename": "eee94d1c-9072-42d3-8982-918fc66fe321.jpg",
-    "url": "./photos/optimized/eee94d1c-9072-42d3-8982-918fc66fe321.webp",
-    "downloadUrl": "./photos/full/eee94d1c-9072-42d3-8982-918fc66fe321.jpg",
-    "date": "2024-07-17T12:55:12.000Z",
     "lat": null,
     "lng": null,
     "place": null
@@ -99,15 +63,6 @@
     "place": "Saint-Raphaël"
   },
   {
-    "filename": "PXL_20241227_105643948.jpg",
-    "url": "./photos/optimized/PXL_20241227_105643948.webp",
-    "downloadUrl": "./photos/full/PXL_20241227_105643948.jpg",
-    "date": "2024-12-27T10:56:43.000Z",
-    "lat": 43.454816666666666,
-    "lng": 6.905836111111111,
-    "place": "Saint-Raphaël"
-  },
-  {
     "filename": "PXL_20241227_115725784.jpg",
     "url": "./photos/optimized/PXL_20241227_115725784.webp",
     "downloadUrl": "./photos/full/PXL_20241227_115725784.jpg",
@@ -126,15 +81,6 @@
     "place": "Saint-Raphaël"
   },
   {
-    "filename": "PXL_20241230_094009983.jpg",
-    "url": "./photos/optimized/PXL_20241230_094009983.webp",
-    "downloadUrl": "./photos/full/PXL_20241230_094009983.jpg",
-    "date": "2024-12-30T09:40:09.000Z",
-    "lat": 43.44620555555555,
-    "lng": 6.905975000000001,
-    "place": "Saint-Raphaël"
-  },
-  {
     "filename": "PXL_20250404_071037834.jpg",
     "url": "./photos/optimized/PXL_20250404_071037834.webp",
     "downloadUrl": "./photos/full/PXL_20250404_071037834.jpg",
@@ -142,15 +88,6 @@
     "lat": 45.52095277777778,
     "lng": 9.318202777777778,
     "place": "Cernusco sul Naviglio"
-  },
-  {
-    "filename": "PXL_20250417_041258467.jpg",
-    "url": "./photos/optimized/PXL_20250417_041258467.webp",
-    "downloadUrl": "./photos/full/PXL_20250417_041258467.jpg",
-    "date": "2025-04-17T04:12:58.000Z",
-    "lat": null,
-    "lng": null,
-    "place": null
   },
   {
     "filename": "PXL_20250417_041636280.jpg",
@@ -225,39 +162,12 @@
     "place": "Waksmund"
   },
   {
-    "filename": "PXL_20250423_115948806.MP.jpg",
-    "url": "./photos/optimized/PXL_20250423_115948806.MP.webp",
-    "downloadUrl": "./photos/full/PXL_20250423_115948806.MP.jpg",
-    "date": "2025-04-23T11:59:48.000Z",
-    "lat": 49.42268055555555,
-    "lng": 20.320083333333333,
-    "place": "Niedzica-Zamek"
-  },
-  {
     "filename": "PXL_20250423_120636358.jpg",
     "url": "./photos/optimized/PXL_20250423_120636358.webp",
     "downloadUrl": "./photos/full/PXL_20250423_120636358.jpg",
     "date": "2025-04-23T12:06:36.000Z",
     "lat": 49.42254444444444,
     "lng": 20.319644444444446,
-    "place": "Niedzica-Zamek"
-  },
-  {
-    "filename": "PXL_20250423_125209874.jpg",
-    "url": "./photos/optimized/PXL_20250423_125209874.webp",
-    "downloadUrl": "./photos/full/PXL_20250423_125209874.jpg",
-    "date": "2025-04-23T12:52:09.000Z",
-    "lat": 49.40995833333333,
-    "lng": 20.329505555555556,
-    "place": "Niedzica-Zamek"
-  },
-  {
-    "filename": "PXL_20250423_125212699.jpg",
-    "url": "./photos/optimized/PXL_20250423_125212699.webp",
-    "downloadUrl": "./photos/full/PXL_20250423_125212699.jpg",
-    "date": "2025-04-23T12:52:12.000Z",
-    "lat": 49.419713888888886,
-    "lng": 20.322752777777776,
     "place": "Niedzica-Zamek"
   },
   {
@@ -268,15 +178,6 @@
     "lat": 49.419713888888886,
     "lng": 20.322752777777776,
     "place": "Niedzica-Zamek"
-  },
-  {
-    "filename": "PXL_20250425_131205492.jpg",
-    "url": "./photos/optimized/PXL_20250425_131205492.webp",
-    "downloadUrl": "./photos/full/PXL_20250425_131205492.jpg",
-    "date": "2025-04-25T13:12:05.000Z",
-    "lat": 49.88868055555555,
-    "lng": 20.087666666666667,
-    "place": "Dobczyce"
   },
   {
     "filename": "PXL_20250425_132522718.jpg",
@@ -304,15 +205,6 @@
     "lat": 42.39795,
     "lng": 11.206338888888888,
     "place": "Porto Ercole"
-  },
-  {
-    "filename": "PXL_20250611_084212638.jpg",
-    "url": "./photos/optimized/PXL_20250611_084212638.webp",
-    "downloadUrl": "./photos/full/PXL_20250611_084212638.jpg",
-    "date": "2025-06-11T08:42:12.000Z",
-    "lat": null,
-    "lng": null,
-    "place": null
   },
   {
     "filename": "PXL_20250715_090621827.MP.jpg",
@@ -628,5 +520,131 @@
     "lat": 45.46570555555556,
     "lng": 9.186275,
     "place": "Milan"
+  },
+  {
+    "filename": "PXL_20260624_134817497.MP.jpg",
+    "url": "./photos/optimized/PXL_20260624_134817497.MP.webp",
+    "downloadUrl": "./photos/full/PXL_20260624_134817497.MP.jpg",
+    "date": "2026-06-24T13:48:17.000Z",
+    "lat": 46.11683611111111,
+    "lng": 8.893424999999999,
+    "place": "Monteceneri"
+  },
+  {
+    "filename": "PXL_20260708_093044399.jpg",
+    "url": "./photos/optimized/PXL_20260708_093044399.webp",
+    "downloadUrl": "./photos/full/PXL_20260708_093044399.jpg",
+    "date": "2026-07-08T09:30:44.000Z",
+    "lat": 50.06186388888889,
+    "lng": 19.938408333333335,
+    "place": "Krakow"
+  },
+  {
+    "filename": "PXL_20260716_191104459.jpg",
+    "url": "./photos/optimized/PXL_20260716_191104459.webp",
+    "downloadUrl": "./photos/full/PXL_20260716_191104459.jpg",
+    "date": "2026-07-16T19:11:04.000Z",
+    "lat": 50.278108333333336,
+    "lng": 19.559030555555555,
+    "place": "Olkusz"
+  },
+  {
+    "filename": "PXL_20260721_112443125.jpg",
+    "url": "./photos/optimized/PXL_20260721_112443125.webp",
+    "downloadUrl": "./photos/full/PXL_20260721_112443125.jpg",
+    "date": "2026-07-21T11:24:43.000Z",
+    "lat": 54.684102777777774,
+    "lng": 17.358536111111114,
+    "place": "Smołdzino"
+  },
+  {
+    "filename": "PXL_20260722_132949920.jpg",
+    "url": "./photos/optimized/PXL_20260722_132949920.webp",
+    "downloadUrl": "./photos/full/PXL_20260722_132949920.jpg",
+    "date": "2026-07-22T13:29:49.000Z",
+    "lat": 54.77059444444444,
+    "lng": 17.589766666666666,
+    "place": "Łeba"
+  },
+  {
+    "filename": "PXL_20260723_094117265.jpg",
+    "url": "./photos/optimized/PXL_20260723_094117265.webp",
+    "downloadUrl": "./photos/full/PXL_20260723_094117265.jpg",
+    "date": "2026-07-23T09:41:17.000Z",
+    "lat": 54.46658055555556,
+    "lng": 17.026616666666666,
+    "place": "Słupsk"
+  },
+  {
+    "filename": "PXL_20260724_143447472.jpg",
+    "url": "./photos/optimized/PXL_20260724_143447472.webp",
+    "downloadUrl": "./photos/full/PXL_20260724_143447472.jpg",
+    "date": "2026-07-24T14:34:47.000Z",
+    "lat": 54.58274444444445,
+    "lng": 16.860619444444445,
+    "place": "Ustka"
+  },
+  {
+    "filename": "PXL_20260727_114056462.jpg",
+    "url": "./photos/optimized/PXL_20260727_114056462.webp",
+    "downloadUrl": "./photos/full/PXL_20260727_114056462.jpg",
+    "date": "2026-07-27T11:40:56.000Z",
+    "lat": 53.12306944444445,
+    "lng": 18.001375,
+    "place": "Bydgoszcz"
+  },
+  {
+    "filename": "PXL_20260727_121205187.jpg",
+    "url": "./photos/optimized/PXL_20260727_121205187.webp",
+    "downloadUrl": "./photos/full/PXL_20260727_121205187.jpg",
+    "date": "2026-07-27T12:12:05.000Z",
+    "lat": 53.12271388888889,
+    "lng": 17.994694444444445,
+    "place": "Bydgoszcz"
+  },
+  {
+    "filename": "PXL_20260803_195410224.jpg",
+    "url": "./photos/optimized/PXL_20260803_195410224.webp",
+    "downloadUrl": "./photos/full/PXL_20260803_195410224.jpg",
+    "date": "2026-08-03T19:54:10.000Z",
+    "lat": 50.262675,
+    "lng": 19.030480555555556,
+    "place": "Katowice"
+  },
+  {
+    "filename": "PXL_20260805_123806832.jpg",
+    "url": "./photos/optimized/PXL_20260805_123806832.webp",
+    "downloadUrl": "./photos/full/PXL_20260805_123806832.jpg",
+    "date": "2026-08-05T12:38:06.000Z",
+    "lat": 50.263872222222226,
+    "lng": 19.029325,
+    "place": "Katowice"
+  },
+  {
+    "filename": "PXL_20260808_120249254.jpg",
+    "url": "./photos/optimized/PXL_20260808_120249254.webp",
+    "downloadUrl": "./photos/full/PXL_20260808_120249254.jpg",
+    "date": "2026-08-08T12:02:49.000Z",
+    "lat": 49.61094444444445,
+    "lng": 18.921525000000003,
+    "place": "Wisła"
+  },
+  {
+    "filename": "a282265c-f06d-4f21-9f9c-f81feaf65d82.jpg",
+    "url": "./photos/optimized/a282265c-f06d-4f21-9f9c-f81feaf65d82.webp",
+    "downloadUrl": "./photos/full/a282265c-f06d-4f21-9f9c-f81feaf65d82.jpg",
+    "date": "2023-12-28T14:34:23.000Z",
+    "lat": null,
+    "lng": null,
+    "place": null
+  },
+  {
+    "filename": "afc1d5e5-1b13-4408-a057-6615348ec826.jpg",
+    "url": "./photos/optimized/afc1d5e5-1b13-4408-a057-6615348ec826.webp",
+    "downloadUrl": "./photos/full/afc1d5e5-1b13-4408-a057-6615348ec826.jpg",
+    "date": "2024-07-17T14:28:04.000Z",
+    "lat": null,
+    "lng": null,
+    "place": null
   }
 ]
